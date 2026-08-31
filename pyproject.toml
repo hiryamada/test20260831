@@ -1,0 +1,16 @@
+[project]
+name = "test20260831"
+version = "0.1.0"
+description = "A Python project managed with uv."
+authors = [
+    { name = "copilot-swe-agent[bot]", email = "198982749+Copilot@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+test20260831 = "test20260831:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
