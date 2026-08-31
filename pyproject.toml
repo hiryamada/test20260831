@@ -1,7 +1,7 @@
 [project]
 name = "test20260831"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Python project managed with uv."
 authors = [
     { name = "copilot-swe-agent[bot]", email = "198982749+Copilot@users.noreply.github.com" }
 ]
